@@ -1,4 +1,4 @@
-#courtesy of the great Anant Prakash
+#courtesy of the great Anant Prakash.
 void dft(int x,vector<bool> rec){           // to find a cycle
 
     if(!rec[x]){
